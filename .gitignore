@@ -1,0 +1,12 @@
+*.iml
+.idea
+
+# DAT files
+*.dat
+
+# Python virtualenv
+.env
+__pycache__
+generate.log
+*.releaseBackup
+*.zip

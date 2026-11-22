@@ -1,6 +1,8 @@
 # music-manager
 Tools to help to manager music files.
 
+With these tools you can manage and organise your audio music files.
+
 # TODO
 
 - [x] Add LICENSE file.
